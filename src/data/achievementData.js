@@ -1,32 +1,41 @@
 export const achievementData = {
-  bio: "These courses have imparted me with a comprehensive understanding of MERN stack technologies, which has given me the confidence to produce high-quality work when developing projects utilizing this stack.",
+  bio: "These courses have imparted me with a comprehensive understanding of Frontend technologies, which has given me the confidence to produce high-quality work when developing projects utilizing these skills.",
   achievements: [
     {
       id: 1,
-      title: "Full Stack Specialization",
+      title: "React JS",
       details: "Nxtwave Disruptive Technologies",
-      date: "Jan 15, 2023",
-      field: "Web development",
+      date: "Feb 06, 2023",
+      field: "Frontend Development",
       image:
-        "https://res.cloudinary.com/radhekrishn/image/upload/v1681722544/ReactJs_page-0001_hgckvp.jpg",
+        "https://res.cloudinary.com/radhekrishn/image/upload/v1685501970/Screenshot_2023-05-31_082831_qrozoj.png",
     },
     {
       id: 2,
-      title: "Frontend Developement course",
-      details: "Offered through Coursera",
-      date: "May 25, 2021",
+      title: "Designing Dynamic Web Applications",
+      details: "Offered through Nxtwave",
+      date: "Aug 13, 2022",
       field: "Web development",
       image:
-        "https://res.cloudinary.com/radhekrishn/image/upload/v1681722990/Html_page-0001_maztjk.jpg",
+        "https://res.cloudinary.com/radhekrishn/image/upload/v1685508264/Screenshot_2023-05-31_101408_hnywmx.png",
     },
     {
       id: 3,
-      title: "Python 3 programming",
+      title: "Python programming",
       details: "By University of Michigan",
-      date: "sep 13, 2022",
+      date: "Apr 07, 2022",
       field: "Programming",
       image:
-        "https://res.cloudinary.com/radhekrishn/image/upload/v1681722987/python_3_Programming_3_page-0001_r66qme.jpg",
+        "https://res.cloudinary.com/radhekrishn/image/upload/v1685507847/Screenshot_2023-05-31_100714_gpyqhp.png",
+    },
+    {
+      id: 3,
+      title: "Responsive web designing",
+      details: "Nxtwave Disruptive Technologies",
+      date: "May 28, 2022",
+      field: "Web developement",
+      image:
+        "https://res.cloudinary.com/radhekrishn/image/upload/v1685501969/Screenshot_2023-05-31_082806_u9ieir.png",
     },
   ],
 };

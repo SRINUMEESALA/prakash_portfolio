@@ -28,7 +28,7 @@ export const projectsData = [
       "https://res.cloudinary.com/dzivm8ve4/image/upload/v1678960092/Screenshot_2023-03-16_145831_vhrqiq.png",
   },
   {
-    id: 4,
+    id: 2,
     projectName: "Book Hub",
     projectDesc:
       "Designed and developed a fully functional and visually appealing online bookstore website which posess an intuitive user interface with easy navigation, allowing customers to browse and search for books based on title, author, genre, and keywords.",
@@ -47,7 +47,7 @@ export const projectsData = [
       "https://res.cloudinary.com/radhekrishn/image/upload/v1684836388/Screenshot_2023-05-23_153535_f1gml5.png",
   },
   {
-    id: 5,
+    id: 3,
     projectName: "Nxt Watch",
     projectDesc:
       "Implemented Nxt Watch application which is a clone for YouTube where users can log in and can see a list of videos like Trending, Gaming, Saved videos, and also can search videos and view specific video details, and users can toggle the theme (Light/Dark).",
@@ -64,6 +64,24 @@ export const projectsData = [
     demo: "https://prakashntwatch.ccbp.tech/",
     image:
       "https://res.cloudinary.com/dzivm8ve4/image/upload/v1678961785/Screenshot_2023-03-16_154412_xyfes8.png",
+  },
+  {
+    id: 3,
+    projectName: "Jobby",
+    projectDesc:
+      "Implemented Jobby App where users can log in and can see a list of jobs with search by Job title, filters based on Salary range and Employment type, etc",
+    tags: [
+      "React",
+      "Bootstrap",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Styled Components",
+    ],
+    code: "https://github.com/PrakashDumpa/JobbyApp.git",
+    demo: "https://prakashjobby.ccbp.tech/",
+    image:
+      "https://res.cloudinary.com/dp8ggbibl/image/upload/v1678971714/dibuy/Home_awjdxx.png",
   },
 ];
 

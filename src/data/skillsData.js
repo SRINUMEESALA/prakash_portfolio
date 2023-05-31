@@ -1,14 +1,15 @@
 export const skillsData = [
-  "HTML",
-  "Javascript",
-  "CSS",
   "React",
-  "MongoDB",
+  "Javascript",
+  "HTML",
+  "CSS",
   "MaterialUI",
-  "MySQL",
   "Bootstrap",
-  "Firebase",
+  "Git",
+  "Figma",
   "Python",
+  "MongoDB",
+  "MySQL",
   "Node JS",
 ];
 
@@ -65,8 +66,8 @@ export const skillsData = [
     Dart
     Typescript
     Swift
-    Git
-    Figma
+    
+    
     Canva
     Ubuntu
     Bootstrap

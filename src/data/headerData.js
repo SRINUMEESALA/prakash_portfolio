@@ -3,9 +3,9 @@ import profilePic from "../assets/png/profilePic.jpg";
 
 export const headerData = {
   name: "Prakash Dumpa",
-  title: "Full Stack Developer",
+  title: "Frontend Developer",
   desciption:
-    "Full stack development is not just about writing code, it's about understanding the big picture and bringing all the pieces together to create a seamless user experience.",
+    "Frontend Developement is not just about developing UI, it's about understanding the big picture and bringing all the pieces together to create a seamless user experience.",
   image: profilePic,
   resumePdf: resume,
 };

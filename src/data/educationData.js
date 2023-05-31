@@ -18,7 +18,7 @@ export const educationData = [
   {
     id: 3,
     institution: "Zilla Parishad High School, Allinagaram",
-    course: "Mathematics",
+    course: "Mathematics and Science",
     startYear: "2016",
     endYear: "2017",
   },
